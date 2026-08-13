@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## hello my name is  anuj g poojari i am ece 3rd year.
 <!--
 **anujgp/anujgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
